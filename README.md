@@ -60,7 +60,6 @@ To develop intelligent systems that enhance efficiency, optimize processes and s
  ## 📚 Currently Learning
 - MLOps and Model Deployment
 - System Design for ML Engineers
-- Advanced Deep Learning Techniques
 
  ---
 # 📊 GitHub Stats:
