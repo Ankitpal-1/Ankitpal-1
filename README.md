@@ -62,7 +62,7 @@ To develop intelligent systems that enhance efficiency, optimize processes and s
 - System Design for ML Engineers
 
  ---
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=Ankitpal-1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://streak-stats.demolab.com?user=Ankitpal-1&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitpal-1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
