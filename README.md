@@ -45,6 +45,24 @@ To develop intelligent systems that enhance efficiency, optimize processes and s
 
 ---
 
+## 🚀 Featured Projects
+- 🌿 **Plant Disease Detection System**  
+  Deep learning based system that detects plant diseases using image classification.
+
+- 🤖 **Chatbot using NLP**  
+  NLP-based chatbot capable of answering user queries using intent recognition.
+
+- 📊 **Shopping Trends Analysis**  
+  Data analytics project analyzing customer purchasing trends for insights.
+
+ ---
+
+ ## 📚 Currently Learning
+- MLOps and Model Deployment
+- System Design for ML Engineers
+- Advanced Deep Learning Techniques
+
+ ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ankitpal-1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://streak-stats.demolab.com?user=Ankitpal-1&theme=tokyonight&hide_border=false)  
